@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tomeightyeight/page-loader/issues"
   },
-  "homepage": "https://github.com/tomeightyeight/page-loader#readme"
+  "homepage": "https://github.com/tomeightyeight/page-loader#readme",
+  "dependencies": {
+    "whatwg-fetch": "^1.0.0"
+  }
 }
